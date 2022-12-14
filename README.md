@@ -1,6 +1,6 @@
-# varios
-Varias imagenes
-# Para favicon.
+# Imágenes
+Cosas de imágenes
+# Para mostrar imágenes favicon.
 ```
-<link id="favicon"rel="icon" href="https://raw.githubusercontent.com/p3p2/varios/main/logo_javi.jpg" type="image/jpg" sizes="16x16">
+<link id="favicon"rel="icon" href=" URLde la imagen " sizes="16x16">
 ```
